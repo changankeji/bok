@@ -199,11 +199,11 @@ MIT License
 
 欢迎提交Issue和Pull Request来改进这个项目。
 
-## 联系方式
+## AAAAAA
+   运维面板宝塔（bt.cn）
+   服务器aws亚马逊服务器
+   域名腾讯dns
 
-如有问题，请通过以下方式联系：
-- 邮箱: [your-email@example.com]
-- GitHub: [your-github-username]
 
 ---
 
